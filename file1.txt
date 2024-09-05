@@ -4,6 +4,9 @@
 
 789.
 new_line
+<<<<<<< HEAD
 new line2
 new line3
 new branch_line
+=======
+>>>>>>> 1541d2b1f7699866d5be7ac5fe5ee32f8dcebf6c
